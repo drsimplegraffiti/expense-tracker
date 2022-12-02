@@ -4,7 +4,7 @@
 
 ##### Application properties
 
-```java
+```
 server.port=6789
 ```
 
